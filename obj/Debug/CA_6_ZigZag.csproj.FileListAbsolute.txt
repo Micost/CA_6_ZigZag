@@ -1,0 +1,7 @@
+C:\Users\Chuan\Project\CA_6_ZigZag\CA_6_ZigZag\bin\Debug\CA_6_ZigZag.exe.config
+C:\Users\Chuan\Project\CA_6_ZigZag\CA_6_ZigZag\bin\Debug\CA_6_ZigZag.exe
+C:\Users\Chuan\Project\CA_6_ZigZag\CA_6_ZigZag\bin\Debug\CA_6_ZigZag.pdb
+C:\Users\Chuan\Project\CA_6_ZigZag\CA_6_ZigZag\obj\Debug\CA_6_ZigZag.csproj.CoreCompileInputs.cache
+C:\Users\Chuan\Project\CA_6_ZigZag\CA_6_ZigZag\obj\Debug\CA_6_ZigZag.exe
+C:\Users\Chuan\Project\CA_6_ZigZag\CA_6_ZigZag\obj\Debug\CA_6_ZigZag.pdb
+C:\Users\Chuan\Project\CA_6_ZigZag\CA_6_ZigZag\obj\Debug\CA_6_ZigZag.csprojResolveAssemblyReference.cache
